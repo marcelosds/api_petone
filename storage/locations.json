@@ -1,0 +1,98 @@
+{
+  "tenants": {
+    "default": {
+      "locations": [
+        {
+          "id": "loc_mhtjkayj_c5145z",
+          "petId": "pet_1762803045379_gaodc807f8u",
+          "label": "device",
+          "latitude": -28.392148,
+          "longitude": -54.068621,
+          "accuracy": 10,
+          "createdAt": "2024-11-10T10:29:27.890Z",
+          "origin": "device",
+          "createdBy": "PET-MHTJE9KC",
+          "uid": "default"
+        }
+      ],
+      "devices": [
+        {
+          "petId": "pet_1762803045379_gaodc807f8u",
+          "code": "PET-MHTJE9KC",
+          "name": "Fada",
+          "updatedAt": "2025-11-10T19:55:46.823Z",
+          "createdAt": "2025-11-10T19:34:28.819Z",
+          "deviceId": ""
+        },
+        {
+          "petId": "pet_1762804129616_jrgu4ebiz0q",
+          "code": "PET-MHTK1HCR",
+          "deviceId": "",
+          "name": "Meau",
+          "updatedAt": "2025-11-10T19:55:56.925Z",
+          "createdAt": "2025-11-10T19:55:56.925Z"
+        },
+        {
+          "petId": null,
+          "code": "PET-MHTLO64L",
+          "deviceId": "",
+          "name": "Chiquita",
+          "updatedAt": "2025-11-11T00:38:00.752Z",
+          "createdAt": "2025-11-10T20:34:49.820Z"
+        }
+      ]
+    },
+    "2DmjjohFcCfKUaQu96Un5RSHExE3": {
+      "locations": [
+        {
+          "id": "1762903544098cf2hxubqz",
+          "petId": "pet_1762896427883_hq8l1g462c7",
+          "label": "Casa 🏡",
+          "latitude": -27.1188987,
+          "longitude": -52.6074633,
+          "createdAt": "2025-11-11T23:25:44.098Z",
+          "origin": "localizacao",
+          "createdBy": "2DmjjohFcCfKUaQu96Un5RSHExE3",
+          "uid": "2DmjjohFcCfKUaQu96Un5RSHExE3"
+        },
+        {
+          "id": "1762923753846qzixnxg5k",
+          "petId": "pet_1762923696479_syd9jj1al3s",
+          "label": "Casa",
+          "latitude": -27.1189257,
+          "longitude": -52.6074991,
+          "createdAt": "2025-11-12T05:02:33.846Z",
+          "origin": "localizacao",
+          "createdBy": "2DmjjohFcCfKUaQu96Un5RSHExE3",
+          "uid": "2DmjjohFcCfKUaQu96Un5RSHExE3"
+        }
+      ],
+      "devices": [
+        {
+          "petId": "pet_1762896427883_hq8l1g462c7",
+          "code": "PET-MHV2ZZMX",
+          "deviceId": "",
+          "name": "Fada",
+          "updatedAt": "2025-11-11T21:27:07.352Z",
+          "createdAt": "2025-11-11T21:27:07.352Z"
+        },
+        {
+          "petId": "pet_1762903452771_25j5ncfs7i9",
+          "code": "PET-MHV766E5",
+          "deviceId": "",
+          "name": "Meau",
+          "updatedAt": "2025-11-11T23:28:55.225Z",
+          "createdAt": "2025-11-11T23:28:55.225Z"
+        },
+        {
+          "petId": "pet_1762923696479_syd9jj1al3s",
+          "code": "PET-MHVJ8ETR",
+          "deviceId": "",
+          "name": "Fada",
+          "updatedAt": "2025-11-12T05:01:42.029Z",
+          "createdAt": "2025-11-12T05:01:42.031Z"
+        }
+      ]
+    }
+  }
+}
