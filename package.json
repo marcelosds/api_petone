@@ -1,0 +1,19 @@
+{
+  "name": "petone-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Backend simples (HTTP) para armazenar localizações de pets/dispositivos.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node tools/seed.js",
+    "find-uid": "node tools/findUid.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "firebase-admin": "^12.5.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
